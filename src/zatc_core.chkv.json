@@ -1,0 +1,22 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ABAP Test Cockpit Core Variant",
+    "originalLanguage": "en"
+  },
+  "selectedChecks": [
+    {
+      "checkName": "ZATC_CC_DDIC_NAME",
+      "parameters": [
+        {
+          "name": "DTEL",
+          "value": "ZDE*"
+        },
+        {
+          "name": "DOMA",
+          "value": "ZD*"
+        }
+      ]
+    }
+  ]
+}

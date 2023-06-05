@@ -1,0 +1,20 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ABAP Test Cockpit Custom Check DDIC Naming Conventions",
+    "originalLanguage": "en"
+  },
+  "category": "ZATC_CUSTOM_CHECKS",
+  "implementingClass": "ZCL_ATC_CC_DDIC_NAME",
+  "checkType": "remoteEnabled",
+  "parameters": [
+    {
+      "name": "DOMA",
+      "hidden": true
+    },
+    {
+      "name": "DTEL",
+      "hidden": true
+    }
+  ]
+}
