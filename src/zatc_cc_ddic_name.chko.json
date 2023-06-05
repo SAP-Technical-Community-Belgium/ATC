@@ -10,10 +10,12 @@
   "parameters": [
     {
       "name": "DOMA",
+      "description": "Domain name prefix",
       "hidden": true
     },
     {
       "name": "DTEL",
+      "description": "Data element prefix",
       "hidden": true
     }
   ]
