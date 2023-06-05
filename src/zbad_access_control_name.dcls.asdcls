@@ -1,0 +1,9 @@
+@EndUserText.label: 'Example of a bad access control name'
+@MappingRole: true
+define role ZBAD_ACCESS_CONTROL_NAME {
+    grant
+        select
+            on
+                ZBAD_CDS_VIEW_NAME;
+                        
+}

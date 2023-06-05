@@ -9,13 +9,43 @@
   "checkType": "remoteEnabled",
   "parameters": [
     {
-      "name": "DOMA",
-      "description": "Domain name prefix",
+      "name": "INTERFACE",
       "hidden": true
     },
     {
-      "name": "DTEL",
-      "description": "Data element prefix",
+      "name": "FUNCTION_GROUP",
+      "hidden": true
+    },
+    {
+      "name": "CLASS",
+      "hidden": true
+    },
+    {
+      "name": "TABLE_TYPE",
+      "hidden": true
+    },
+    {
+      "name": "DATA_ELEMENT",
+      "hidden": true
+    },
+    {
+      "name": "DOMAIN",
+      "hidden": true
+    },
+    {
+      "name": "STRUCTURE",
+      "hidden": true
+    },
+    {
+      "name": "CDS",
+      "hidden": true
+    },
+    {
+      "name": "ACCESS_CONTROL",
+      "hidden": true
+    },
+    {
+      "name": "MESSAGE_CLASS",
       "hidden": true
     }
   ]

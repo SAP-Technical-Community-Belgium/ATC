@@ -9,12 +9,70 @@
       "checkName": "ZATC_CC_DDIC_NAME",
       "parameters": [
         {
-          "name": "DTEL",
-          "value": "ZDE*"
+          "name": "INTERFACE",
+          "valueList": [
+            "ZIF_*"
+          ]
         },
         {
-          "name": "DOMA",
-          "value": "ZD*"
+          "name": "FUNCTION_GROUP",
+          "valueList": [
+            "ZFGR_*"
+          ]
+        },
+        {
+          "name": "CLASS",
+          "valueList": [
+            "ZCL_*",
+            "ZCX_*",
+            "ZCA_*",
+            "ZCB_*",
+            "ZBP_*"
+          ]
+        },
+        {
+          "name": "TABLE_TYPE",
+          "valueList": [
+            "ZT*"
+          ]
+        },
+        {
+          "name": "DATA_ELEMENT",
+          "valueList": [
+            "ZDE*"
+          ]
+        },
+        {
+          "name": "DOMAIN",
+          "valueList": [
+            "ZD*"
+          ]
+        },
+        {
+          "name": "STRUCTURE",
+          "valueList": [
+            "ZS*"
+          ]
+        },
+        {
+          "name": "CDS",
+          "valueList": [
+            "ZI_*",
+            "ZC_*",
+            "ZE_*"
+          ]
+        },
+        {
+          "name": "ACCESS_CONTROL",
+          "valueList": [
+            "ZAC_*"
+          ]
+        },
+        {
+          "name": "MESSAGE_CLASS",
+          "valueList": [
+            "ZCM_*"
+          ]
         }
       ]
     }
