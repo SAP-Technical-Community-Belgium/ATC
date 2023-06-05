@@ -4,12 +4,12 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_ATC_CC_DDIC_NAME</CLSNAME>
-    <LANGU>N</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>ABAP Test Cockpit Custom Checks DDIC Naming Conventions</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
-    <UNICODE>X</UNICODE>
+    <UNICODE>5</UNICODE>
    </VSEOCLASS>
   </asx:values>
  </asx:abap>
