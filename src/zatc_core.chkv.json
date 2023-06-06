@@ -75,6 +75,18 @@
           ]
         }
       ]
+    },
+    {
+      "checkName": "DD_CI_DDIC_CONSISTENCY_AC"
+    },
+    {
+      "checkName": "DD_CI_DDIC_CONSISTENCY_PA"
+    },
+    {
+      "checkName": "DD_CI_ABAP_USAGE_SQL_VIEW"
+    },
+    {
+      "checkName": "DD_CI_DDIC_USAGE_SQL_VIEW"
     }
   ]
 }
