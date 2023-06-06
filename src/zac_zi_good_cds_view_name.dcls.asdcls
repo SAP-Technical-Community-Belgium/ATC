@@ -1,9 +1,0 @@
-@EndUserText.label: 'Example of a good access control name'
-@MappingRole: true
-define role ZAC_ZI_GOOD_CDS_VIEW_NAME {
-    grant
-        select
-            on
-                ZI_GOOD_CDS_VIEW_NAME;
-                        
-}
