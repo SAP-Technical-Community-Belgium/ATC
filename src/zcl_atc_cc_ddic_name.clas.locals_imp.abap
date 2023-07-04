@@ -24,7 +24,7 @@ CLASS meta_data IMPLEMENTATION.
                      ( zcl_atc_cc_ddic_name=>constants-checked_object_types-function_group )
                      ( zcl_atc_cc_ddic_name=>constants-checked_object_types-interface )
                      ( zcl_atc_cc_ddic_name=>constants-checked_object_types-message_class )
-                     ( zcl_atc_cc_ddic_name=>constants-checked_object_types-structure )
+                     ( zcl_atc_cc_ddic_name=>constants-checked_object_types-structure ) "same as: ( zcl_atc_cc_ddic_name=>constants-checked_object_types-database_table )
                      ( zcl_atc_cc_ddic_name=>constants-checked_object_types-table_type ) ).
   ENDMETHOD.
 

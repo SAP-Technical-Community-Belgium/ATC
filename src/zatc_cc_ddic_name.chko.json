@@ -2,51 +2,45 @@
   "formatVersion": "1",
   "header": {
     "description": "ABAP Test Cockpit Custom Check DDIC Naming Conventions",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
   },
   "category": "ZATC_CUSTOM_CHECKS",
   "implementingClass": "ZCL_ATC_CC_DDIC_NAME",
   "checkType": "remoteEnabled",
   "parameters": [
     {
-      "name": "INTERFACE",
-      "hidden": true
+      "name": "INTERFACE"
     },
     {
-      "name": "FUNCTION_GROUP",
-      "hidden": true
+      "name": "FUNCTION_GROUP"
     },
     {
-      "name": "CLASS",
-      "hidden": true
+      "name": "CLASS"
     },
     {
-      "name": "TABLE_TYPE",
-      "hidden": true
+      "name": "TABLE_TYPE"
     },
     {
-      "name": "DATA_ELEMENT",
-      "hidden": true
+      "name": "DATA_ELEMENT"
     },
     {
-      "name": "DOMAIN",
-      "hidden": true
+      "name": "DOMAIN"
     },
     {
-      "name": "STRUCTURE",
-      "hidden": true
+      "name": "STRUCTURE"
     },
     {
-      "name": "CDS",
-      "hidden": true
+      "name": "DATABASE_TABLE"
     },
     {
-      "name": "ACCESS_CONTROL",
-      "hidden": true
+      "name": "CDS"
     },
     {
-      "name": "MESSAGE_CLASS",
-      "hidden": true
+      "name": "ACCESS_CONTROL"
+    },
+    {
+      "name": "MESSAGE_CLASS"
     }
   ]
 }

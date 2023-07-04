@@ -2,7 +2,8 @@
   "formatVersion": "1",
   "header": {
     "description": "ABAP Test Cockpit Core Variant",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
   },
   "selectedChecks": [
     {
@@ -52,6 +53,12 @@
           "name": "STRUCTURE",
           "valueList": [
             "ZS*"
+          ]
+        },
+        {
+          "name": "DATABASE_TABLE",
+          "valueList": [
+            "Z*"
           ]
         },
         {

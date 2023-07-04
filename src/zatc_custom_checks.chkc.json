@@ -2,6 +2,7 @@
   "formatVersion": "1",
   "header": {
     "description": "Z - Custom Checks",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
   }
 }
